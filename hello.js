@@ -1,14 +1,3 @@
-/**
- * @hello.js
- *
- * HelloJS is a client side Javascript SDK for making OAuth2 logins and subsequent REST calls.
- *
- * @author Andrew Dodson
- * @website https://adodson.com/hello.js/
- *
- * @copyright Andrew Dodson, 2012 - 2015
- * @license MIT: You are free to use and modify this code for any use, on the condition that this copyright notice remains.
- */
 
 var hello = function(name) {
 	return hello.use(name);
